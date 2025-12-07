@@ -41,7 +41,6 @@ MCU 환경에서 동작 가능한 효율적 이미지 분류 모델을 찾기 �
 |       |-- flash_predictor.pth  
 |       |-- latency_predictor.pth  
 |       |-- sram_predictor.pth  
-|       `-- violation_predictor.pth  
 |  
 |-- common  
 |   |-- encoder.py  
