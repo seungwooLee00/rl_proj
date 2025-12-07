@@ -1,0 +1,130 @@
+[
+    {
+        "learning_rate": 0.0003,
+        "ent_coef": 0.01,
+        "clip_range": 0.1,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.0004587225187996939,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 1.0,
+            "latency_violation_rate": 1.0,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0003_ent_0.01_clip_0.1"
+    },
+    {
+        "learning_rate": 0.0003,
+        "ent_coef": 0.01,
+        "clip_range": 0.2,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.19164206277434961,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7185903469721476,
+            "valid_max_accuracy": 0.7273406982421875
+        },
+        "log_dir": "rl_results/stage1_lr_0.0003_ent_0.01_clip_0.2"
+    },
+    {
+        "learning_rate": 0.0003,
+        "ent_coef": 0.03,
+        "clip_range": 0.1,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.07385406866664777,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0003_ent_0.03_clip_0.1"
+    },
+    {
+        "learning_rate": 0.0003,
+        "ent_coef": 0.03,
+        "clip_range": 0.2,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.19164206277434961,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7185903469721476,
+            "valid_max_accuracy": 0.7273406982421875
+        },
+        "log_dir": "rl_results/stage1_lr_0.0003_ent_0.03_clip_0.2"
+    },
+    {
+        "learning_rate": 0.0001,
+        "ent_coef": 0.01,
+        "clip_range": 0.1,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.008597141418454347,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 0.03333333333333333,
+            "latency_violation_rate": 0.06666666666666667,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0001_ent_0.01_clip_0.1"
+    },
+    {
+        "learning_rate": 0.0001,
+        "ent_coef": 0.01,
+        "clip_range": 0.2,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.008597141418454347,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 0.03333333333333333,
+            "latency_violation_rate": 0.06666666666666667,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0001_ent_0.01_clip_0.2"
+    },
+    {
+        "learning_rate": 0.0001,
+        "ent_coef": 0.03,
+        "clip_range": 0.1,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.0002558995380396929,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 1.0,
+            "latency_violation_rate": 1.0,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0001_ent_0.03_clip_0.1"
+    },
+    {
+        "learning_rate": 0.0001,
+        "ent_coef": 0.03,
+        "clip_range": 0.2,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.0002558995380396929,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 1.0,
+            "latency_violation_rate": 1.0,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage1_lr_0.0001_ent_0.03_clip_0.2"
+    }
+]

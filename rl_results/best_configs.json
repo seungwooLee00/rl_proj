@@ -1,0 +1,32 @@
+{
+    "best_ppo": {
+        "learning_rate": 0.0003,
+        "ent_coef": 0.01,
+        "clip_range": 0.2,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.19164206277434961,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7185903469721476,
+            "valid_max_accuracy": 0.7273406982421875
+        }
+    },
+    "best_reward": {
+        "hard_violation": 3.0,
+        "soft_violation": 1.0,
+        "accuracy_scale": 4.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.2649202742018476,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7176369408766429,
+            "valid_max_accuracy": 0.7246750593185425
+        }
+    }
+}

@@ -1,0 +1,1214 @@
+{
+  "2.0": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 3000,
+      "best_accuracy": 0.7458674907684326,
+      "best_latency": 1.487219214439392,
+      "best_flash": 1.6919721364974976,
+      "best_sram": 0.8025437593460083,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 3001,
+      "best_accuracy": 0.7451282739639282,
+      "best_latency": 1.9338494539260864,
+      "best_flash": 1.7406744956970215,
+      "best_sram": 0.8009230494499207,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 3002,
+      "best_accuracy": 0.7458683252334595,
+      "best_latency": 1.4560340642929077,
+      "best_flash": 1.6175389289855957,
+      "best_sram": 0.8027915954589844,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 3003,
+      "best_accuracy": 0.7443089485168457,
+      "best_latency": 1.6000807285308838,
+      "best_flash": 1.6117424964904785,
+      "best_sram": 0.8017294406890869,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 3004,
+      "best_accuracy": 0.7495580911636353,
+      "best_latency": 1.8152085542678833,
+      "best_flash": 1.703816533088684,
+      "best_sram": 0.803608775138855,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 3005,
+      "best_accuracy": 0.7491443753242493,
+      "best_latency": 1.5696104764938354,
+      "best_flash": 1.6920206546783447,
+      "best_sram": 0.8039597272872925,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 3006,
+      "best_accuracy": 0.7473381757736206,
+      "best_latency": 1.7582343816757202,
+      "best_flash": 1.6874241828918457,
+      "best_sram": 0.8032345175743103,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 3007,
+      "best_accuracy": 0.7466731667518616,
+      "best_latency": 1.7635996341705322,
+      "best_flash": 1.5635870695114136,
+      "best_sram": 0.8034066557884216,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 3008,
+      "best_accuracy": 0.7476573586463928,
+      "best_latency": 1.8510677814483643,
+      "best_flash": 1.7793338298797607,
+      "best_sram": 0.8036798238754272,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 2.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 3009,
+      "best_accuracy": 0.7462862730026245,
+      "best_latency": 1.6050167083740234,
+      "best_flash": 1.7615858316421509,
+      "best_sram": 0.8022375702857971,
+      "violation": false
+    }
+  ],
+  "1.8": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 2800,
+      "best_accuracy": 0.7454841136932373,
+      "best_latency": 1.4246877431869507,
+      "best_flash": 1.615476369857788,
+      "best_sram": 0.8026084899902344,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 2801,
+      "best_accuracy": 0.7491315007209778,
+      "best_latency": 1.7924495935440063,
+      "best_flash": 1.608385443687439,
+      "best_sram": 0.8021479845046997,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 2802,
+      "best_accuracy": 0.7474672794342041,
+      "best_latency": 1.496887445449829,
+      "best_flash": 1.7287689447402954,
+      "best_sram": 0.8020483255386353,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 2803,
+      "best_accuracy": 0.7467862367630005,
+      "best_latency": 1.4399157762527466,
+      "best_flash": 1.6528427600860596,
+      "best_sram": 0.8021210432052612,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 2804,
+      "best_accuracy": 0.7468995451927185,
+      "best_latency": 1.7095739841461182,
+      "best_flash": 1.6044723987579346,
+      "best_sram": 0.802529513835907,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 2805,
+      "best_accuracy": 0.745367169380188,
+      "best_latency": 1.4342024326324463,
+      "best_flash": 1.779137134552002,
+      "best_sram": 0.8019648194313049,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 2806,
+      "best_accuracy": 0.745521068572998,
+      "best_latency": 1.5494228601455688,
+      "best_flash": 1.7336387634277344,
+      "best_sram": 0.8043839335441589,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 2807,
+      "best_accuracy": 0.7466853260993958,
+      "best_latency": 1.7617683410644531,
+      "best_flash": 1.687362551689148,
+      "best_sram": 0.8030828237533569,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 2808,
+      "best_accuracy": 0.7467684149742126,
+      "best_latency": 1.4358912706375122,
+      "best_flash": 1.7956204414367676,
+      "best_sram": 0.8022811412811279,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.8,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 2809,
+      "best_accuracy": 0.7441051006317139,
+      "best_latency": 1.670960545539856,
+      "best_flash": 1.6423616409301758,
+      "best_sram": 0.8031989336013794,
+      "violation": false
+    }
+  ],
+  "1.6": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 2600,
+      "best_accuracy": 0.7428515553474426,
+      "best_latency": 1.4527041912078857,
+      "best_flash": 1.7624003887176514,
+      "best_sram": 0.8024141192436218,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 2601,
+      "best_accuracy": 0.7468197345733643,
+      "best_latency": 1.580038070678711,
+      "best_flash": 1.757921576499939,
+      "best_sram": 0.8021277785301208,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 2602,
+      "best_accuracy": 0.7456146478652954,
+      "best_latency": 1.5006628036499023,
+      "best_flash": 1.6080814599990845,
+      "best_sram": 0.8010755777359009,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 2603,
+      "best_accuracy": 0.7430282831192017,
+      "best_latency": 1.4606486558914185,
+      "best_flash": 1.6749521493911743,
+      "best_sram": 0.8022438287734985,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 2604,
+      "best_accuracy": 0.7483763098716736,
+      "best_latency": 1.4474108219146729,
+      "best_flash": 1.5843682289123535,
+      "best_sram": 0.8018052577972412,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 2605,
+      "best_accuracy": 0.7468988299369812,
+      "best_latency": 1.339110255241394,
+      "best_flash": 1.5878655910491943,
+      "best_sram": 0.8020318746566772,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 2606,
+      "best_accuracy": 0.7493333220481873,
+      "best_latency": 1.5233962535858154,
+      "best_flash": 1.6212377548217773,
+      "best_sram": 0.8027232885360718,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 2607,
+      "best_accuracy": 0.7479737401008606,
+      "best_latency": 1.55462646484375,
+      "best_flash": 1.6671496629714966,
+      "best_sram": 0.8019296526908875,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 2608,
+      "best_accuracy": 0.7461322546005249,
+      "best_latency": 1.551655650138855,
+      "best_flash": 1.5831528902053833,
+      "best_sram": 0.802902102470398,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.6,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 2609,
+      "best_accuracy": 0.7448269128799438,
+      "best_latency": 1.5652027130126953,
+      "best_flash": 1.6581199169158936,
+      "best_sram": 0.8032581806182861,
+      "violation": false
+    }
+  ],
+  "1.4": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 2400,
+      "best_accuracy": 0.7446361184120178,
+      "best_latency": 1.185335397720337,
+      "best_flash": 1.5726890563964844,
+      "best_sram": 0.80259108543396,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 2401,
+      "best_accuracy": 0.7447132468223572,
+      "best_latency": 1.1791571378707886,
+      "best_flash": 1.711427927017212,
+      "best_sram": 0.8026549816131592,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 2402,
+      "best_accuracy": 0.7426669597625732,
+      "best_latency": 1.3200105428695679,
+      "best_flash": 1.7533588409423828,
+      "best_sram": 0.8030624389648438,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 2403,
+      "best_accuracy": 0.7429007291793823,
+      "best_latency": 1.3275673389434814,
+      "best_flash": 1.6631547212600708,
+      "best_sram": 0.802765429019928,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 2404,
+      "best_accuracy": 0.7409785389900208,
+      "best_latency": 1.379240870475769,
+      "best_flash": 1.7376666069030762,
+      "best_sram": 0.801672101020813,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 2405,
+      "best_accuracy": 0.7461190819740295,
+      "best_latency": 1.3761368989944458,
+      "best_flash": 1.5975314378738403,
+      "best_sram": 0.8019868731498718,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 2406,
+      "best_accuracy": 0.7435723543167114,
+      "best_latency": 1.3590621948242188,
+      "best_flash": 1.7582013607025146,
+      "best_sram": 0.8030287027359009,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 2407,
+      "best_accuracy": 0.7434413433074951,
+      "best_latency": 1.3006303310394287,
+      "best_flash": 1.64936363697052,
+      "best_sram": 0.8022437691688538,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 2408,
+      "best_accuracy": 0.7431200742721558,
+      "best_latency": 1.3569753170013428,
+      "best_flash": 1.7577484846115112,
+      "best_sram": 0.8014413714408875,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.4,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 2409,
+      "best_accuracy": 0.7432230114936829,
+      "best_latency": 1.3814748525619507,
+      "best_flash": 1.7413209676742554,
+      "best_sram": 0.80170738697052,
+      "violation": false
+    }
+  ],
+  "1.2": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 2200,
+      "best_accuracy": 0.7388137578964233,
+      "best_latency": 1.15615975856781,
+      "best_flash": 1.6928106546401978,
+      "best_sram": 0.8018905520439148,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 2201,
+      "best_accuracy": 0.7384328246116638,
+      "best_latency": 1.1059679985046387,
+      "best_flash": 1.7361873388290405,
+      "best_sram": 0.8031992316246033,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 2202,
+      "best_accuracy": 0.737233579158783,
+      "best_latency": 1.1536250114440918,
+      "best_flash": 1.4821107387542725,
+      "best_sram": 0.8033049702644348,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 2203,
+      "best_accuracy": 0.7394054532051086,
+      "best_latency": 1.1361273527145386,
+      "best_flash": 1.6473338603973389,
+      "best_sram": 0.8028274774551392,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 2204,
+      "best_accuracy": 0.7404994368553162,
+      "best_latency": 1.1521552801132202,
+      "best_flash": 1.4380695819854736,
+      "best_sram": 0.8030283451080322,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 2205,
+      "best_accuracy": 0.736785888671875,
+      "best_latency": 1.176005244255066,
+      "best_flash": 1.641644835472107,
+      "best_sram": 0.8022275567054749,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 2206,
+      "best_accuracy": 0.7400112152099609,
+      "best_latency": 1.126063585281372,
+      "best_flash": 1.7760800123214722,
+      "best_sram": 0.8039155006408691,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 2207,
+      "best_accuracy": 0.7387088537216187,
+      "best_latency": 1.1976567506790161,
+      "best_flash": 1.3715846538543701,
+      "best_sram": 0.8033468127250671,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 2208,
+      "best_accuracy": 0.7374595403671265,
+      "best_latency": 1.172512173652649,
+      "best_flash": 1.5330380201339722,
+      "best_sram": 0.8031345009803772,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.2,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 2209,
+      "best_accuracy": 0.736920177936554,
+      "best_latency": 1.091842532157898,
+      "best_flash": 1.524857997894287,
+      "best_sram": 0.8033373951911926,
+      "violation": false
+    }
+  ],
+  "1.0": [
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 0,
+      "seed": 2000,
+      "best_accuracy": 0.7101249694824219,
+      "best_latency": 0.9420256614685059,
+      "best_flash": 1.3108267784118652,
+      "best_sram": 0.800977885723114,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 1,
+      "seed": 2001,
+      "best_accuracy": 0.7308603525161743,
+      "best_latency": 0.9596996307373047,
+      "best_flash": 1.6402288675308228,
+      "best_sram": 0.8032491207122803,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 2,
+      "seed": 2002,
+      "best_accuracy": 0.7297702431678772,
+      "best_latency": 0.9634594321250916,
+      "best_flash": 1.6421780586242676,
+      "best_sram": 0.8016331195831299,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 3,
+      "seed": 2003,
+      "best_accuracy": 0.7274467349052429,
+      "best_latency": 0.9302003383636475,
+      "best_flash": 1.7047629356384277,
+      "best_sram": 0.801052987575531,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 4,
+      "seed": 2004,
+      "best_accuracy": 0.7280381321907043,
+      "best_latency": 0.9489033818244934,
+      "best_flash": 1.5624154806137085,
+      "best_sram": 0.8016898036003113,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 5,
+      "seed": 2005,
+      "best_accuracy": 0.721489429473877,
+      "best_latency": 0.998883843421936,
+      "best_flash": 1.3643571138381958,
+      "best_sram": 0.802171528339386,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 6,
+      "seed": 2006,
+      "best_accuracy": 0.7271506786346436,
+      "best_latency": 0.8533938527107239,
+      "best_flash": 1.7868255376815796,
+      "best_sram": 0.8022933602333069,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 7,
+      "seed": 2007,
+      "best_accuracy": 0.7147514224052429,
+      "best_latency": 0.9202470779418945,
+      "best_flash": 1.351346731185913,
+      "best_sram": 0.8030090928077698,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 8,
+      "seed": 2008,
+      "best_accuracy": 0.7324386239051819,
+      "best_latency": 0.9320963025093079,
+      "best_flash": 1.2625060081481934,
+      "best_sram": 0.8019669651985168,
+      "violation": false
+    },
+    {
+      "config": {
+        "population_size": 500,
+        "mutation_prob": 0.3,
+        "crossover_prob": 0.9,
+        "patience": 5,
+        "threshold": 0.0001,
+        "max_gen": 30,
+        "max_latency": 1.0,
+        "max_flash": 1.8,
+        "max_sram": 0.88
+      },
+      "trial_index": 9,
+      "seed": 2009,
+      "best_accuracy": 0.7353922724723816,
+      "best_latency": 0.9874992966651917,
+      "best_flash": 1.4515842199325562,
+      "best_sram": 0.8024181723594666,
+      "violation": false
+    }
+  ]
+}

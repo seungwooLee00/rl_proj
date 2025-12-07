@@ -1,0 +1,130 @@
+[
+    {
+        "hard_violation": 3.0,
+        "soft_violation": 0.5,
+        "accuracy_scale": 4.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.26473270932293885,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7175209105014801,
+            "valid_max_accuracy": 0.7247342467308044
+        },
+        "log_dir": "rl_results/stage2_hv_3.0_sv_0.5_asc_4.0"
+    },
+    {
+        "hard_violation": 3.0,
+        "soft_violation": 0.5,
+        "accuracy_scale": 6.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.1365141228416521,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.717563021183014,
+            "valid_max_accuracy": 0.7248529195785522
+        },
+        "log_dir": "rl_results/stage2_hv_3.0_sv_0.5_asc_6.0"
+    },
+    {
+        "hard_violation": 3.0,
+        "soft_violation": 1.0,
+        "accuracy_scale": 4.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.2649202742018476,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7176369408766429,
+            "valid_max_accuracy": 0.7246750593185425
+        },
+        "log_dir": "rl_results/stage2_hv_3.0_sv_1.0_asc_4.0"
+    },
+    {
+        "hard_violation": 3.0,
+        "soft_violation": 1.0,
+        "accuracy_scale": 6.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.0002267400021248564,
+            "flash_violation_rate": 1.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 1.0,
+            "valid_mean_accuracy": 0.0,
+            "valid_max_accuracy": 0.0
+        },
+        "log_dir": "rl_results/stage2_hv_3.0_sv_1.0_asc_6.0"
+    },
+    {
+        "hard_violation": 5.0,
+        "soft_violation": 0.5,
+        "accuracy_scale": 4.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.2650765537823731,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7175209105014801,
+            "valid_max_accuracy": 0.7247342467308044
+        },
+        "log_dir": "rl_results/stage2_hv_5.0_sv_0.5_asc_4.0"
+    },
+    {
+        "hard_violation": 5.0,
+        "soft_violation": 0.5,
+        "accuracy_scale": 6.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.13651737013493007,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7175209105014801,
+            "valid_max_accuracy": 0.7247342467308044
+        },
+        "log_dir": "rl_results/stage2_hv_5.0_sv_0.5_asc_6.0"
+    },
+    {
+        "hard_violation": 5.0,
+        "soft_violation": 1.0,
+        "accuracy_scale": 4.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.26507773870549606,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7175209105014801,
+            "valid_max_accuracy": 0.7247342467308044
+        },
+        "log_dir": "rl_results/stage2_hv_5.0_sv_1.0_asc_4.0"
+    },
+    {
+        "hard_violation": 5.0,
+        "soft_violation": 1.0,
+        "accuracy_scale": 6.0,
+        "summary": {
+            "n_episodes": 30,
+            "mean_total_reward": 0.1365175504649674,
+            "flash_violation_rate": 0.0,
+            "sram_violation_rate": 0.0,
+            "latency_violation_rate": 0.0,
+            "any_violation_rate": 0.0,
+            "valid_mean_accuracy": 0.7175209105014801,
+            "valid_max_accuracy": 0.7247342467308044
+        },
+        "log_dir": "rl_results/stage2_hv_5.0_sv_1.0_asc_6.0"
+    }
+]
